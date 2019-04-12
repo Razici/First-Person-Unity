@@ -277,7 +277,7 @@ MonoBehaviour:
   useRadialDistance: 0
   heightFog: 1
   height: 2
-  heightDensity: 2
+  heightDensity: 0.001
   startDistance: 38
   fogShader: {fileID: 4800000, guid: 70d8568987ac0499f952b54c7c13e265, type: 3}
 --- !u!114 &1551241915
